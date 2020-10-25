@@ -1,4 +1,6 @@
 ### Hi there 👋
+[![GitHub Game of Life](https://github4life.herokuapp.com/SandhraPrathap.gif?z=6)](https://github4life.herokuapp.com/SandhraPrathap)
+
 
 <!--
 **SandhraPrathap/SandhraPrathap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
